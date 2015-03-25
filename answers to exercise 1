@@ -1,0 +1,12 @@
+1) Each div is 350 pixels
+2) They become 315 pixels
+3) They move to the right hand side of the page next to each other, with div 1 at 575-875 and div 2 at 900-1205
+4) They are aligned to the left hand side of the page next to each other; div 1 at 10-315, div 2 at 335-640
+5) The instruction box resizes with the browser window, but the divs and the ruler does not resize.
+6) Div 1 stays where it was before and Div 2 aligns left, to 900-1205
+7) Both are aligned left, and div 1 extends 2000 pixels which forces div 2 to float underneath it.
+8) I did the thing!
+9) Both the divs adjust when you resize your browser window to keep proportions
+10) I did the thing, pt 2: electric boogaloo!
+11) I did the thing, pt 3: me, myself, and Irene.
+12) Finished, but in the float layout, the third column drops below rather than resizing...hmmm
